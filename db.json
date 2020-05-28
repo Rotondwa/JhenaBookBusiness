@@ -7,10 +7,10 @@
 	},
 	
 	{
-    "BusinessID": 1,
+    "businessid": 1,
     "title": "Cut it Service",
     "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.thetrendspotter.net%2Fwp-content%2Fuploads%2F2020%2F03%2FBest-Barbershops-in-Perth.jpg&imgrefurl=https%3A%2F%2Fwww.thetrendspotter.net%2Fbest-barber-shops-perth%2F&tbnid=fbYgeDzrMxpTPM&vet=12ahUKEwjr3aecwtfpAhUB_xoKHabSBiMQMygBegUIARCbAg..i&docid=YVfmMn3pTLi3NM&w=800&h=450&q=barbers&client=opera&ved=2ahUKEwjr3aecwtfpAhUB_xoKHabSBiMQMygBegUIARCbAg",
 	"description": "Cool Stuff Cool Stuff Cool StuffCool StuffCool StuffCool Stuff"
-	},
+	}
   
 ]
